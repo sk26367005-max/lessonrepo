@@ -1,9 +1,9 @@
+<<<<<<< HEAD
 11回目のconf - repo の作成です
 111111111
 
 11 Oct	06:35P TOTTORI		A	NA298			
-		07:55P HANEDA
-		(ACCOMODATION) XXXX
+
 ---------------------------------------------------------------------------------------------
 12 Oct	Tokyo Tour	(detail schedule is not fixed)
 			Sumo-beya
